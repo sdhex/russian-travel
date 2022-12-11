@@ -3,6 +3,6 @@
   flex-direction: column;
   gap: 80px;
   max-width: 984px;
-  width: calc(100% - 2 * 48px);
+  width: calc(100% - 2 * 148px);
   margin: 0 auto;
 }
