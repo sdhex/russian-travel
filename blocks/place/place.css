@@ -1,6 +1,6 @@
 .place {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: calc((460/984)*100%) 1fr;
   gap: 48px 40px;
   max-width: 984px;
 }
