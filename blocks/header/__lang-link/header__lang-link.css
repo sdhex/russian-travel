@@ -5,3 +5,8 @@
   line-height: 28px;
   color: #fff;
 }
+
+.header__lang-link:hover {
+  opacity: 0.8;
+  transition: opacity .2s linear;
+}
