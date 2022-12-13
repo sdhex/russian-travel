@@ -7,3 +7,9 @@
   align-items: flex-end;
   padding-bottom: 4px;
 }
+
+@media screen and (max-width: 767px) {
+  .header__lang-container {
+    padding-bottom: 7px;
+  }
+}
