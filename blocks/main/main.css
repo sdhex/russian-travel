@@ -4,7 +4,7 @@
   row-gap: 92px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
   .main {
     row-gap: 88px;
   }

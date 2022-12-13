@@ -30,13 +30,13 @@
   transition: .2s linear;
  }
 
- @media screen and (max-width: 1024px) {
+ @media screen and (max-width: 1279px) {
   .cover__overlay {
     min-height: 640px;
   }
  }
 
- @media screen and (max-width: 1024px) {
+ @media screen and (max-width: 1023px) {
   .cover__overlay {
     min-height: 480px;
   }
