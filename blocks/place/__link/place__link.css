@@ -4,5 +4,6 @@
   line-height: 22px;
   font-weight: 400;
   text-decoration: underline;
+  text-underline-offset: 2.5px;
   color: #fff;
 }

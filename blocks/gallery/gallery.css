@@ -6,3 +6,9 @@
   width: calc(100% - 2 * 48px);
   margin: 0 auto;
 }
+
+@media screen and (max-width: 768px) {
+  .gallery {
+    width: calc(100% - 2 * 24px);
+  }
+}
