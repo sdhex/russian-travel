@@ -17,3 +17,4 @@
 * Полностью переделать с подходом mobile-first.
 
 ## Ссылка :
+https://sdhex.github.io/russian-travel/index.html
