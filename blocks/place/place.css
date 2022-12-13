@@ -4,3 +4,10 @@
   gap: 48px 40px;
   max-width: 984px;
 }
+
+@media screen and (max-width: 1024px) {
+  .place {
+    grid-template-columns: calc((440/928)*100%) 1fr;
+    gap: 48px 32px;
+  }
+}

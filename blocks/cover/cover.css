@@ -2,3 +2,9 @@
   width: calc(100% - 2 * 48px);
   margin: 0 auto;
 }
+
+@media screen and (max-width: 1024px) {
+  .cover {
+    width: 100%;
+  }
+}

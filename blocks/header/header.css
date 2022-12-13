@@ -5,3 +5,9 @@
     margin: 28px auto 56px auto;
     width: calc(100% - 2 * 48px);
 }
+
+@media screen and (max-width: 1024px) {
+  .header{
+    margin-bottom: 48px;
+  }
+}

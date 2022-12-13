@@ -29,3 +29,9 @@
   opacity: .8;
   transition: .2s linear;
  }
+
+ @media screen and (max-width: 1024px) {
+  .cover__overlay {
+    min-height: 640px;
+  }
+ }
