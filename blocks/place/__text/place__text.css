@@ -12,3 +12,10 @@
     line-height: 26.08px;
   }
 }
+
+@media screen and (max-width: 767px) {
+  .place__text {
+    width: 90%;
+    margin: 0 auto;
+  }
+}

@@ -28,16 +28,40 @@
 .cover__overlay:hover::before {
   opacity: .8;
   transition: .2s linear;
- }
+}
 
- @media screen and (max-width: 1279px) {
+@media screen and (max-width: 1279px) {
   .cover__overlay {
     min-height: 640px;
   }
- }
+}
 
- @media screen and (max-width: 1023px) {
+@media screen and (max-width: 1023px) {
   .cover__overlay {
     min-height: 480px;
   }
- }
+}
+
+@media screen and (max-width: 767px) {
+  .cover__overlay {
+    min-height: 400px;
+  }
+}
+
+@media screen and (max-width: 467px) {
+  .cover__overlay {
+    min-height: 350px;
+  }
+}
+
+@media screen and (max-width: 407px) {
+  .cover__overlay {
+    min-height: 300px;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  .cover__overlay {
+    min-height: 200px;
+  }
+}
