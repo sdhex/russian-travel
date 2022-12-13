@@ -1,9 +1,8 @@
 .intro {
   display: flex;
   flex-direction: column;
-  max-width: 984px;
+  max-width: 690px;
   padding-left: 148px;
-  box-sizing: border-box;
 }
 
 @media screen and (max-width: 1279px) {
